@@ -1,0 +1,10 @@
+# Ignore large data files
+*.parquet
+*.json
+*.tar
+
+# Ignore Jupyter temporary files
+.ipynb_checkpoints/
+
+# Ignore macOS files
+.DS_Store
